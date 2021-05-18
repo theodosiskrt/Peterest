@@ -14,9 +14,9 @@ Detailed list of all frameworks and packages used in this project:
 
 Instructions
 
-1.You need to have mongoDB installed on your machine.
++ 1.You need to have mongoDB installed on your machine.
   The following link has instruction on installing mongoDB on every Operating System: https://docs.mongodb.com/manual/installation/
-2.You need to start mongoDB.
-3.Open the "Peterest" folder on your console.
-4.Use the command "npm install" to install the required packages.
-5.Use the command "node app.js" and the application should be running on http://localhost:3000
++ 2.You need to start mongoDB.
++ 3.Open the "Peterest" folder on your console.
++ 4.Use the command "npm install" to install the required packages.
++ 5.Use the command "node app.js" and the application should be running on http://localhost:3000
