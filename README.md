@@ -3,14 +3,14 @@ This is a CRUD application where you can upload posts/images of your pets! It's 
 Many features are going to be added in soon (Authentication, like system, pet names and more!).
 This project was made using HTML, CSS, Javascript, Express and many other Javascript frameworks/Npm packages.
 Detailed list of all frameworks and packages used in this project:
--Express
--Mongoose
--Joi
--Ejs
--ejs-mate
--method-override
--morgan
-+ all of their dependecies.
++ Express
++ Mongoose
++ Joi
++ Ejs
++ ejs-mate
++ method-override
++ morgan
++ +all of their dependecies.
 
 Instructions
 
