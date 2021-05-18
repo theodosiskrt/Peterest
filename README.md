@@ -1,5 +1,5 @@
 # Peterest
-This is a CRUD application where you can upload posts/images of your pets! It's pretty simple since you can only Create, Read, Update and Delete posts.
+This is a CRUD application where you can upload posts/images of your pets! It's pretty straightforward since you can only Create, Read, Update and Delete posts.
 Many features are going to be added in soon (Authentication, like system, pet names and more!).
 This project was made using HTML, CSS, Javascript, Express and many other Javascript frameworks/Npm packages.
 Detailed list of all frameworks and packages used in this project:
