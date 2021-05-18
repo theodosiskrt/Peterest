@@ -19,4 +19,5 @@ Instructions
 + 2.You need to start mongoDB.
 + 3.Open the "Peterest" folder on your console.
 + 4.Use the command "npm install" to install the required packages.
-+ 5.Use the command "node app.js" and the application should be running on http://localhost:3000
++ 4.5(optional) You can cd into the "seeds" folder and run "node seeds.js" so you can see some examples before you post anything.
++ 5.Use the command "node app.js" inside the "Peterest" folder and the application should be running on http://localhost:3000
