@@ -28,4 +28,5 @@ Instructions
 + Extra information: In order to login as the exampleUser (created in the seeds.js file) use these creditentials:
   
   Username: exampleUser
+  
   Password: example
