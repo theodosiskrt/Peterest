@@ -1,7 +1,7 @@
 # Peterest
 This is a CRUD application where you can create an account and upload posts/images of your pets! Since authorization is included, you have to be signed in to create a post. You have to be the author of a post in order to delete or edit it. 
 Many features are going to be added in soon (Like system, pet names and more!).
-This project was made using HTML, CSS, Javascript, Express and many other Javascript frameworks/Npm packages.
+This project is made using HTML, CSS, Javascript, Express and many other Javascript frameworks/Npm packages.
 Detailed list of all frameworks and packages used in this project:
 + express
 + mongoose
