@@ -26,5 +26,5 @@ Instructions
 + 5.Use the command "node app.js" inside the "Peterest" folder and the application should be running on http://localhost:3000
 
 + Extra information: In order to login as the exampleUser (created in the seeds.js file) use these creditentials:
-Username: exampleUser
-Password: example
+  Username: exampleUser
+  Password: example
